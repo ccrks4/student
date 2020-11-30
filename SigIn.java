@@ -1,8 +1,13 @@
 public class SigIn{
 	private int id;
+
 	private String name;
 
-	public void sign(){
+
+
+
+	public void sigIn(){
+		System.out.println("id-"+id);
 
 	}
 }
